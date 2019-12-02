@@ -1,5 +1,8 @@
 '''
 Learning Python
+By Chris Chike
+2019
+
 '''
 import os
 os.system('clear')
